@@ -1,0 +1,1 @@
+# Arnold enum type.
